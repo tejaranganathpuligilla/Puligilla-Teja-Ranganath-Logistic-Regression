@@ -1,8 +1,7 @@
-# Puligilla-Teja-Ranganath-Logistic-Regression
-Explanation of logistic regression with a dataset Advertising Dataset
 # Logistic-Regression
+Explanation of logistic regression with a dataset Advertising Dataset
 
-Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables 
+Def : Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables 
 
 ## Using Logistic Regression Algorithm on Advertising Dataset:
 
