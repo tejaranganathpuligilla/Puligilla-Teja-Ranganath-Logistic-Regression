@@ -1,6 +1,6 @@
 # Logistic-Regression
 Explanation of logistic regression with a dataset Advertising Dataset
-
+![WhatsApp Image 2021-05-17 at 11 45 32 PM](https://user-images.githubusercontent.com/82372055/118537240-5840f300-b76a-11eb-8317-170eb90e830e.jpeg)
 Def : Logistic Regression is used to predict the categorical dependent variable using a given set of independent variables 
 
 ## Using Logistic Regression Algorithm on Advertising Dataset:
